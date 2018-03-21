@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">postCard</string>
+    <string name="hiTxt">Hello Friend!</string>
+    <string name="txtBottom">It\'s me!</string>
 </resources>
